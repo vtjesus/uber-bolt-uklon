@@ -1,10 +1,4 @@
-<img src="/assets/img/Screenshot_1.png">
-<img src="/assets/img/Screenshot_2.png">
-<img src="/assets/img/Screenshot_3.png">
-<img src="/assets/img/Screenshot_4.png">
-<img src="/assets/img/Screenshot_5.png">
-<img src="/assets/img/Screenshot_6.png">
-<img src="/assets/img/Screenshot_7.png">
+
 
 
   <div>
