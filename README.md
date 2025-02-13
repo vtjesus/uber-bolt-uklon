@@ -5,16 +5,7 @@
 <img src="/assets/img/Screenshot_5.png">
 <img src="/assets/img/Screenshot_6.png">
 <img src="/assets/img/Screenshot_7.png">
-<img src="/assets/img/Screenshot_8.png">
-<img src="/assets/img/Screenshot_9.png">
-<img src="/assets/img/Screenshot_10.png">
-<img src="/assets/img/Screenshot_11.png">
-<img src="/assets/img/Screenshot_12.png">
-<img src="/assets/img/Screenshot_13.png">
-<img src="/assets/img/Screenshot_14.png">
-<img src="/assets/img/Screenshot_15.png">
-<img src="/assets/img/Screenshot_16.png">
-<img src="/assets/img/Screenshot_17.png">
+
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
